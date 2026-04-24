@@ -7,10 +7,10 @@ This project focuses on analyzing sales data for a leading retail chain in India
 As part of the analytics process, the goal was to understand customer behavior, product performance, store sales trends, and customer satisfaction, and translate these insights into meaningful business recommendations.
 
 ### 🎯 Business Objective
-🔹Identify key drivers of sales and customer engagement
-🔹Segment customers for targeted marketing
-🔹Analyze product and store performance
-🔹Improve decision-making using data-driven insights
+- 🔹Identify key drivers of sales and customer engagement
+- 🔹Segment customers for targeted marketing
+- 🔹Analyze product and store performance
+- 🔹Improve decision-making using data-driven insights
 
 ### 🛠️ Tools & Technologies Used
 🔹SQL – Data extraction and transformation
