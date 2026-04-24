@@ -76,7 +76,7 @@ Identifying meaningful patterns from large datasets required deep analysis
 👉 View Dashboard
 
 ### 💡 Key Learnings
-#### 🔹Importance of data quality in analytics
-#### 🔹Practical experience in building end-to-end analytics solutions
-#### 🔹Improved ability to communicate insights to non-technical stakeholders
-#### 🔹Hands-on experience with real-world business problem solving
+#####  🔹Importance of data quality in analytics
+#####  🔹Practical experience in building end-to-end analytics solutions
+#####  🔹Improved ability to communicate insights to non-technical stakeholders
+#####  🔹Hands-on experience with real-world business problem solving
