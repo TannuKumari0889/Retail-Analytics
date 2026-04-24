@@ -70,7 +70,7 @@ Identifying meaningful patterns from large datasets required deep analysis
 - Improved visibility into sales and product performance
 
 ### 📽️ Project Presentation
-👉 View Presentation
+👉 [View Presentation]
 
 ### 📊 Power BI Dashboard
 👉 View Dashboard
