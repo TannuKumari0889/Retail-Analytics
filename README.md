@@ -53,7 +53,7 @@ The dataset contained missing values, duplicates, and inconsistencies
 Some records had incorrect or mismatched information
 -  Data Integration
 Combining multiple data sources into a single Customer 360 view was complex
-  -  nsight Extraction
+  - Insight Extraction
 Identifying meaningful patterns from large datasets required deep analysis
 
 ### ✅ Solutions Implemented
@@ -61,7 +61,7 @@ Identifying meaningful patterns from large datasets required deep analysis
 - Standardized formats and validated records to remove inconsistencies
 - Built a structured data model to simplify analysis
 - Used EDA techniques to uncover hidden trends and insights
-🔹Designed intuitive dashboards to make insights easy to understand
+- Designed intuitive dashboards to make insights easy to understand
 
 ### 📊 Outcome & Impact
 - Delivered actionable insights for marketing and business strategy
