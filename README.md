@@ -13,8 +13,8 @@ As part of the analytics process, the goal was to understand customer behavior, 
 - Improve decision-making using data-driven insights
 
 ### 🛠️ Tools & Technologies Used
-- SQL – Data extraction,transformation and EDA
-- Power BI/Power BI Service – Dashboard development, visualization and Deployment
+- SQL – Data extraction, Transformation and EDA
+- Power BI/Power BI Service – Dashboard Development, Visualization and Deployment
 - Excel – Initial data exploration
 - PowerPoint – Stakeholder presentation
 
