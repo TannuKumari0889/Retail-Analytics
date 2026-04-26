@@ -69,7 +69,7 @@ Identifying meaningful patterns from large datasets required deep analysis
 - Improved visibility into sales and product performance
 
 ### 📽️ Project Presentation
-👉 [View Presentation]
+👉 [View Presentation](https://github.com/TannuKumari0889/Retail-Analytics/raw/main/First%20%26%20second%20set%20of%20deliverables%20ppt.pptx)
 
 ### 📊 Power BI Dashboard
 👉 View Dashboard
