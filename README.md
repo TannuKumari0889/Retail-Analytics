@@ -72,7 +72,7 @@ Identifying meaningful patterns from large datasets required deep analysis
 👉 [View Presentation](https://github.com/TannuKumari0889/Retail-Analytics/raw/main/First%20%26%20second%20set%20of%20deliverables%20ppt.pptx)
 
 ### 📊 Power BI Dashboard
-👉 View Dashboard
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjY4MDNlZWMtMDRkMi00YjEyLWFmYzgtMDEzYWMzMTUwY2RmIiwidCI6ImE3ZWVjMzYxLWJmN2YtNDY4MC04MjFjLTA4OGM0ODZiZmExNiJ9)
 
 ### 💡 Key Learnings
 - Importance of data quality in analytics
